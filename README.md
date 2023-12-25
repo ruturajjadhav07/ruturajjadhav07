@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
+[![MasterHead](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Ruturajj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

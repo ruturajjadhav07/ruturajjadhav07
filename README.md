@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ruturajjadhav122@gmail.com**
 
-- ⚡ Fun fact **I Support RCB ❤️**
+- ⚡ Fun fact : **I Support RCB ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://twitter.com/ruturajjadhav07" target="blank"><img src="https://img.shields.io/twitter/follow/ruturajjadhav07?logo=twitter&style=for-the-badge" alt="ruturajjadhav07" /></a> </p>
+<p align="left"> <a href="https://x.com/spoiidermon" target="blank"><img src="https://img.shields.io/twitter/follow/ruturajjadhav07?logo=twitter&style=for-the-badge" alt="ruturajjadhav07" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ruturajjadhav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruturajjadhav07" height="30" width="40" /></a>
+<a href="https://x.com/spoiidermon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruturajjadhav07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruturaj-jadhav-0a250821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruturaj-jadhav-0a250821b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ruturajj_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ruturajj_07/" height="30" width="40" /></a>
 <a href="https://medium.com/@ruturajjadhav122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ruturajjadhav122" height="30" width="40" /></a>

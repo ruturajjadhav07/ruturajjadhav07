@@ -9,7 +9,7 @@
 
 - 📝 I write articles on Medium [https://medium.com/@ruturajjadhav122](https://medium.com/@ruturajjadhav122)
 
-- 💬 Ask me about **Java, Html Css and Javascript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ruturajjadhav122@gmail.com**
 

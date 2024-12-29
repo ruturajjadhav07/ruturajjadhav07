@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruturaj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://x.com/spoiidermon" target="blank"><img src="https://img.shields.io/twitter/follow/ruturajjadhav07?logo=twitter&style=for-the-badge" alt="ruturajjadhav07" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 📝 I write articles on Medium [https://medium.com/@ruturajjadhav122](https://medium.com/@ruturajjadhav122)

@@ -8,7 +8,7 @@
 </p>
 
 ## 🚀 About Me
-I'm currently working on building impactful full-stack applications. My goal is to become a proficient **full-stack developer** and make meaningful contributions to **open-source projects**. 🌱
+I'm currently working on building impactful full-stack applications. My goal is to become a proficient **Software developer** and make meaningful contributions to **open-source projects**. 🌱
 
 I'm currently diving into **Spring Boot**, **React**, and enhancing my skills with **advanced data structures and algorithms**. I enjoy collaborating on challenging projects and sharing my knowledge with the community. 🤝
 

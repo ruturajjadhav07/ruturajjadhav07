@@ -22,7 +22,7 @@ I'm currently diving into **Spring Boot**, **React**, and enhancing my skills wi
 ---
 
 ### 🔹 My Repositories:
-You can find my **Java** and **React** projects in the **Pinned Repositories** section. Feel free to explore, fork, or contribute to them!
+You can find my **[Java](https://github.com/ruturajjadhav07/Java)** and **[React projects](https://github.com/ruturajjadhav07/React-Projects)** in the **Pinned Repositories** section. Feel free to explore, fork, or contribute to them!
 
 ---
 

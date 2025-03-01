@@ -23,7 +23,7 @@ I'm currently diving into **Spring Boot**, **React**, and enhancing my skills wi
 
 ### 🔹 What I'm up to:
 - 🌱 Learning: **Java**, **Spring Boot**, and **React**.
-- 📝 Writing articles on **DEV Community**: [Check them out here](https://dev.to/ruturajj).
+- 📝 Writing articles on **[DEV Community](https://dev.to/ruturajj)**
 - 💬 Ask me about **Java**, **Full-stack development**, or **Spring Boot**.
 - 📫 How to reach me: **ruturajjadhav122@gmail.com**
 - ⚡ Fun fact: I support **RCB ❤️**!

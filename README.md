@@ -1,54 +1,114 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Jadhav</h1>
-<h3 align="center">A passionate Software Developer from India 🚀</h3>
+<h3 align="center">Backend Engineer • System Thinker • Builder of Reliable Products</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23F7DB51?style=for-the-badge&logo=java&logoColor=black" alt="Java badge">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot badge">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code badge">
-  <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium badge">
+  <img src="https://komarev.com/ghpvc/?username=ruturajjadhav07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
 
 ## 🚀 About Me
-I'm currently working on building impactful full-stack applications. My goal is to become a proficient **Software developer** and make meaningful contributions to **open-source projects**. 🌱
 
-I'm currently diving into **Spring Boot**, **React**, and enhancing my skills with **advanced data structures and algorithms**. I enjoy collaborating on challenging projects and sharing my knowledge with the community. 🤝
+I’m a **backend-focused software engineer** who builds **secure, scalable, production-ready systems** — the kind companies trust with real users and real data.
 
-### 🔹 What I'm up to:
-- 🌱 Learning: **Java**, **Spring Boot**, and **React**.
-- 📝 Writing articles on **[DEV Community](https://dev.to/ruturajj)**
-- 💬 Ask me about **Java**, **Full-stack development**, or **Spring Boot**.
-- 📫 How to reach me: **ruturajjadhav122@gmail.com**
-- ⚡ Fun fact: I support **RCB ❤️**!
+I work close to **business logic, APIs, data flow, and infrastructure**, with a strong focus on  
+**clean architecture, reliability, and long-term maintainability**.
 
----
+My experience comes from **production environments, open-source collaboration, and SaaS-style systems** — not just tutorials.
 
-### 🔹 My Repositories:
-You can find my **[Java Repository](https://github.com/ruturajjadhav07/Java)** and **[React projects](https://github.com/ruturajjadhav07/React-Projects)** in the **Pinned Repositories** section. Feel free to explore, fork, or contribute to them!
+> I care about systems that scale quietly, fail gracefully, and are easy to reason about.
 
 ---
 
-### 🔹 Contribute to My Projects
-Any contribution is welcomed! If you find any issues, or if you would like to improve any feature or add new ones, don't hesitate to create a pull request or open an issue.
+## 🧠 Engineering Mindset
+
+- **Backend-first thinking**, API-driven design  
+- **Security by default**, never as a patch  
+- Write code for **humans first**, machines second  
+- Design for **scale, failure, and change**
+- Learn by **shipping and iterating**
 
 ---
 
-### 🔹 Connect with me:
+## 🛠️ Tech Stack (Modern & Production-Ready)
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge"/>
+</p>
+
+### 🌐 Frontend & Full-Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 Core Strengths
+
+- Backend system design & API architecture  
+- Authentication, authorization & secure coding  
+- Performance tuning & scalable data flow  
+- Clean code, SOLID principles & maintainability  
+- Strong ownership & production mindset  
+
+---
+
+## 📈 What I’m Working Towards
+
+- Large-scale **backend systems**
+- Cloud-native **SaaS platforms**
+- Distributed systems & caching strategies
+- Deeper **system design & performance expertise**
+
+---
+
+## 📫 Let’s Connect
+
 <p align="center">
-  <a href="https://x.com/spoiidermon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ruturaj Jadhav Twitter" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ruturaj-jadhav-0a250821b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ruturaj-jadhav-0a250821b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ruturaj Jadhav LinkedIn" height="30" width="40" />
+  <a href="mailto:ruturajjadhav122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ruturajj_07/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ruturaj Jadhav Instagram" height="30" width="40" />
+  <a href="https://x.com/spoiidermon" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
+
+---
+
+⭐ If you're looking for someone who builds **reliable backend systems and scalable products**, feel free to explore my GitHub.

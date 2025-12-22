@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruturaj Jadhav</h1>
+<h1 align="center">Ruturaj Jadhav</h1>
 <h3 align="center">Backend Engineer • System Thinker • Builder of Reliable Products</h3>
 
 <p align="center">

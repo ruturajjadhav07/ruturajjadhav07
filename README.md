@@ -1,10 +1,6 @@
 <h1 align="center">Ruturaj Jadhav</h1>
 <h3 align="center">Backend Engineer • System Thinker • Builder of Reliable Products</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruturajjadhav07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
